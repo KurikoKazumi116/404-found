@@ -21,3 +21,5 @@ Hello!
 Use the scrollbars to move up and down the website, hover over words to click links.
 
 Thanks for reading!
+<br>
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
