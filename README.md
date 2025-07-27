@@ -7,3 +7,7 @@ This my personal website, use the navigation buttons below the logo to change pa
 On some pages like the link page, you can hover above words to click on a link.
 
 ![Recording 2025-07-27 121918](https://github.com/user-attachments/assets/54ae38d6-d787-4e49-b2c3-13cfc91bf6fc)
+
+This website is scrollable, so look on the right side of the screen to scroll down and up.
+
+Enjoy!
